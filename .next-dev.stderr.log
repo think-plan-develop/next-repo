@@ -1,0 +1,84 @@
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.8plxuzhhh64' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+⨯ Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.8plxuzhhh64' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js.tmp.8plxuzhhh64',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js'
+}
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\static\development\_buildManifest.js.tmp.r2lrplvoxnb' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\static\development\_buildManifest.js'
+⨯ Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\static\development\_buildManifest.js.tmp.r2lrplvoxnb' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\static\development\_buildManifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\static\\development\\_buildManifest.js.tmp.r2lrplvoxnb',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\static\\development\\_buildManifest.js'
+}
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\middleware-build-manifest.js.tmp.qnhxa74ont' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\middleware-build-manifest.js'
+Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.8plxuzhhh64' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js.tmp.8plxuzhhh64',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js'
+}
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\next-font-manifest.js.tmp.hpnaqji8m9' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\next-font-manifest.js'
+⨯ unhandledRejection: Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\next-font-manifest.js.tmp.hpnaqji8m9' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\next-font-manifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\next-font-manifest.js.tmp.hpnaqji8m9',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\next-font-manifest.js'
+}
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.iqlphq1n6lo' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+⨯ Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.iqlphq1n6lo' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js.tmp.iqlphq1n6lo',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js'
+}
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.l6nr3gsvmkh' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+⨯ Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.l6nr3gsvmkh' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js.tmp.l6nr3gsvmkh',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js'
+}
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\middleware-build-manifest.js.tmp.e3mt5jut1z8' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\middleware-build-manifest.js'
+⨯ Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\middleware-build-manifest.js.tmp.e3mt5jut1z8' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\middleware-build-manifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\middleware-build-manifest.js.tmp.e3mt5jut1z8',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\middleware-build-manifest.js'
+}
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\next-font-manifest.js.tmp.21xjs61dzfp' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\next-font-manifest.js'
+⨯ unhandledRejection: Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\next-font-manifest.js.tmp.21xjs61dzfp' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\next-font-manifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\next-font-manifest.js.tmp.21xjs61dzfp',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\next-font-manifest.js'
+}
+⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+Node.js fs rename failed after 101 retries with error Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.izxwlo7r4ag' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+Error: EPERM: operation not permitted, rename 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js.tmp.izxwlo7r4ag' -> 'D:\VERY_IMPORTANT\next-project\.next\dev\server\server-reference-manifest.js'
+    at ignore-listed frames {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js.tmp.izxwlo7r4ag',
+  dest: 'D:\\VERY_IMPORTANT\\next-project\\.next\\dev\\server\\server-reference-manifest.js'
+}

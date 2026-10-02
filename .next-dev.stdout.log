@@ -1,0 +1,49 @@
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.65:3000
+✓ Ready in 1581ms
+✓ Running next.config.ts took 65ms
+Creating turbopack project { dir: 'D:\\VERY_IMPORTANT\\next-project', testMode: true }
+
+○ Compiling /dashboard ...
+ GET /dashboard 200 in 14.7s (next.js: 13.9s, application-code: 805ms)
+ GET /products 500 in 3.2s (next.js: 3.1s, application-code: 55ms)
+ GET /products 500 in 3.2s (next.js: 3.1s, application-code: 56ms)
+○ Compiling / ...
+ GET / 200 in 4.0s (next.js: 3.9s, application-code: 153ms)
+✓ Compiled in 1206ms
+ GET / 200 in 1560ms (next.js: 383ms, application-code: 1177ms)
+ GET /login 200 in 4.6s (next.js: 3.8s, application-code: 783ms)
+ GET /dashboard 200 in 618ms (next.js: 159ms, application-code: 458ms)
+○ Compiling /signup ...
+ GET /signup 200 in 6.8s (next.js: 5.7s, application-code: 1078ms)
+ GET /dashboard 200 in 1945ms (next.js: 483ms, application-code: 1463ms)
+ GET /dashboard 200 in 909ms (next.js: 376ms, application-code: 533ms)
+ GET /products 200 in 564ms (next.js: 178ms, application-code: 386ms)
+ GET /login 200 in 769ms (next.js: 233ms, application-code: 536ms)
+○ Compiling /orders ...
+ GET /signup 200 in 2.3s (next.js: 295ms, application-code: 1981ms)
+ GET /orders 500 in 11.0s (next.js: 5.7s, application-code: 5.2s)
+ GET /profile 500 in 11.2s (next.js: 10.8s, application-code: 385ms)
+ GET /profile 200 in 526ms (next.js: 305ms, application-code: 220ms)
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.65:3000
+✓ Ready in 6.1s
+✓ Running next.config.ts took 821ms
+Creating turbopack project { dir: 'D:\\VERY_IMPORTANT\\next-project', testMode: true }
+
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.65:3000
+✓ Ready in 1452ms
+✓ Running next.config.ts took 85ms
+Creating turbopack project { dir: 'D:\\VERY_IMPORTANT\\next-project', testMode: true }
+
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.65:3000
+✓ Ready in 1860ms
+✓ Running next.config.ts took 97ms
+Creating turbopack project { dir: 'D:\\VERY_IMPORTANT\\next-project', testMode: true }
+[?25h
